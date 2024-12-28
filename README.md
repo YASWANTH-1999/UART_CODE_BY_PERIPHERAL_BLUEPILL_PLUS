@@ -1,4 +1,4 @@
-# UART_CODE_IMPLEMENTED_BY_PERIPHERAL_METHOD_IN_BLUEPILL_PLUS
+# UART_CODE_IMPLEMENTED_USING_PERIPHERAL_METHOD_IN_BLUEPILL_PLUS
 Bluepill Plus contain three UART's UART1, UART2,UART3.
 ### HardWare :Bluepill plus(stm32f103cbt6)
 ![Screenshot 2024-12-27 191900](https://github.com/user-attachments/assets/3598a9c8-08c7-41ca-bf11-3380dd980e29)

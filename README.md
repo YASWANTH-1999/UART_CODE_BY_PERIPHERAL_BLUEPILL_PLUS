@@ -1,5 +1,22 @@
-# UART_CODE_BY_PERIPHERAL_BLUEPILL_PLUS
+# UART_CODE_BY_PERIPHERAL_METHOD_BLUEPILL_PLUS
 Bluepill Plus contain three UART's UART1, UART2,UART3.
-## Without Remap Pins are
-1)UART1
--
+### HardWare :Bluepill plus(stm32f103cbt6)
+![Bluepill_plus]()
+### UART PINS ARE:
+|S.no|UART |Pin.No |Remap Pin .No|
+|---|---|---|---|
+|1  |UART1_TX|PA9 |PB6 |
+|   |---|---|---|
+|   |UART1_RX|PA10 |PB7 |
+|---|---|---|---|
+|2  |UART2_TX|PA2 |PD5 (available only for 100-pin and 144-pin packages ) |
+|   |---|---|---|
+|   |UART2_RX|PA3 |PD6 (available only for 100-pin and 144-pin packages ) |
+|---|---|---|---|
+|3  |UART3_TX|PB10 |PD8 (available only for 64-pin, 100-pin and 144-pin packages)|
+|   |---|---|---|
+|   |UART3_RX|PB11 |PD9 (available only for 64-pin, 100-pin and 144-pin packages)|
+|---|---|---|---|
+
+
+

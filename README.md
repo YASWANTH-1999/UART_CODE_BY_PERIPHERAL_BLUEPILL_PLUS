@@ -66,6 +66,8 @@ b)The Transmitter and Receiver therefore must:
 
 ### UART frame format
 
+![uart frame format](https://github.com/user-attachments/assets/9906746e-e7e2-4f1b-a790-f4c5bf079a55)
+
 a)UART frame consists of :
 
 -Start/Stop bits

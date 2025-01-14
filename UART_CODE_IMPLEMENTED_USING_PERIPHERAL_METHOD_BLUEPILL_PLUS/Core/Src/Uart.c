@@ -23,7 +23,7 @@ void uart1_pin_settings(void)
 }
 void uart1_init(void)
 {
-	//Baud Rate calculation
+	//Baud Rate calculation in uart
 	USART1->BRR|=Calculate_Baud_Rate(BAUD_RATE_UART_9600,16);
 	//Enable TX,RX,UART
 	USART1->CR1|=1<<2|1<<3|1<<13;
